@@ -14,4 +14,4 @@ Key Questions to Answer:
 
 What value of k yields the best results for both the original and PCA-transformed data?
 How does the optimal k value for PCA data compare to that of the original dataset?
-What are the implications of employing fewer features when using K-means clustering?
+What are the implications of employing fewer features when using K-means clustering? 
